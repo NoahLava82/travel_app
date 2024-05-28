@@ -1,7 +1,12 @@
 
-# Project Title
+# Travel App
 
-A brief description of what this project does and who it's for
+A template for a travel app. (Is not functional)
+## Author
+
+- [@NoahLava82](https://www.github.com/NoahLava82)
 
 
-## Wassup
+## Non-Finished App link:
+
+[Click Here for the link](https://www.travel-app7.vercel.app)
