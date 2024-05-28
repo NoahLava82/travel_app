@@ -9,4 +9,4 @@ A template for a travel app. (Is not functional)
 
 ## Non-Finished App link:
 
-[Click Here for the link](https://www.travel-app7.vercel.app)
+[Click Here for the link](https://travel-app7.vercel.app)
